@@ -1,0 +1,30 @@
+<nav>
+        <RouterLink to="/">Home</RouterLink>
+        <RouterLink to="/about">About</RouterLink>
+      </nav>
+
+      
+      //  const current_step_component = computed(() => {
+//      switch (current_step.value){
+//          case 1:
+//              return step1;
+//          case 2:
+//              return step2;
+//          case 3:
+//              return step3;
+//          case 4:
+//             return step4;        
+//          default:
+//              return null;
+//      }
+//  });
+
+
+
+//  const next_step = () => {
+//      if(current_step.value < 4){
+//          current_step.value++;
+//      }
+//  };
+
+
